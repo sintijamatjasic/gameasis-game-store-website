@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "name": "Fornite",
+        "price": 20.99,
+        "image": "imgs/product1.jpg",
+        "category": "Action"
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "name": "Minecraft",
+        "price": 20.99,
+        "image": "imgs/product2.png",
+        "category": "Survival"
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "name": "Call of Duty 4: Modern Warfare",
+        "price": 20.99,
+        "image": "imgs/product3.jpg",
+        "category": "Action"
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "name": "The Sims 4",
+        "price": 40.99,
+        "image": "imgs/product4.png",
+        "category": "Simulation"
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "name": "Grand Theft Auto V",
+        "price": 50,
+        "image": "imgs/product5.png",
+        "category": "Action"
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "name": "Roblox",
+        "price": 19.99,
+        "image": "imgs/product6.jpg",
+        "category": "Simulation"
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "name": "League of Legends",
+        "price": 24.99,
+        "image": "imgs/product7.jpg",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "name": "Counterstrike 2",
+        "price": 49.99,
+        "image": "imgs/product8.jpg",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "name": "Valorant",
+        "price": 79.99,
+        "image": "imgs/product9.jpg",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "name": "Rocket League",
+        "price": 39.99,
+        "image": "imgs/product10.jpg",
+        "category": "Action"
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "name": "Chess",
+        "price": 2.59,
+        "image": "imgs/product11.jpg",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "name": "Solitaire",
+        "price": 1.99,
+        "image": "imgs/product12.png",
+        "category": "Cards"
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "name": "Color Sort",
+        "price": 4.99,
+        "image": "imgs/product13.jpg",
+        "category": "Puzzles"
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "name": "Magic Jigsaw Puzzles",
+        "price": 14.99,
+        "image": "imgs/product14.jpg",
+        "category": "Puzzles"
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "name": "Block Puzzle",
+        "price": 5.0,
+        "image": "imgs/product15.jpg",
+        "category": "Puzzles"
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "name": "Spades",
+        "price": 4.99,
+        "image": "imgs/product16.jpg",
+        "category": "Cards"
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "name": "Crazy 8's",
+        "price": 7.99,
+        "image": "imgs/product17.jpg",
+        "category": "Cards"
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "name": "Gin Rummy",
+        "price": 9.99,
+        "image": "imgs/product18.jpg",
+        "category": "Cards"
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "name": "Tower Defense Clash",
+        "price": 24.99,
+        "image": "imgs/product19.jpg",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "name": "Backpack Battles",
+        "price": 34.99,
+        "image": "imgs/product20.png",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "name": "Clash of Orcs",
+        "price": 24.99,
+        "image": "imgs/product21.png",
+        "category": "Strategy"
+      }
+    },
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "name": "Feudal Wars",
+        "price": 14.99,
+        "image": "imgs/product22.jpg",
+        "category": "Strategy"
+      }
+    }
+  ]
+}
