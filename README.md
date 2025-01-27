@@ -6,7 +6,7 @@ Features:
 - Home Page: Welcoming users with an overview of the store.
 - About Page: Information about the store's concept and purpose.
 - Products Page: Browse a variety of video games available for purchase.
-- Contact Page: A form for users to reach out (or placeholder functionality).
+- Contact Page: A form for users to reach out.
 - Shopping Cart:
       Add and remove games from the cart.
       Real-time calculation of the total cost.
