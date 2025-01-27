@@ -17,3 +17,4 @@ Frontend: Vanilla JavaScript, HTML, and CSS.
 Notes:
 This was my first extensive project, created as a school assignment to practice building a functional and visually engaging website. 
 While it doesn’t include an actual checkout process, it showcases core e-commerce features and includes a playable Tic Tac Toe game to enhance user interaction.
+Extra note: I know most of the games the website is "selling" are free. I just looked for the most popular games.
